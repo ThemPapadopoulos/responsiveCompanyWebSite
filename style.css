@@ -184,11 +184,11 @@ h4 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 40px 40px;
-  background-image: url(svg/laptop.svg);
+  background-image: url(/svg/laptop.svg);
 }
 
 #second {
-  background-image: url(svg/brackets.svg);
+  background-image: url(/svg/brackets.svg);
   width: 100px;
   height: 100px;
   background-color: blue;
@@ -200,7 +200,7 @@ h4 {
 }
 
 #third {
-  background-image: url(svg/heart.svg);
+  background-image: url(/svg/heart.svg);
   width: 100px;
   height: 100px;
   background-color: blue;
